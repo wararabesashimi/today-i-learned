@@ -1,0 +1,19 @@
+site_name: Today-I-Learned
+site_url: https://wararabesashimi.github.io/today-i-learned/
+# repo_url: https://github.com/wararabesashimi/today-i-learned.git
+site_description: TIL方式で自己学習したことをまとめます
+
+nav:
+  - ホーム: index.html
+  - 月刊学習: 
+    - 2026年: 2026-09.md
+  - 機能別学習: 
+    - text: .gitkeep
+theme:
+  name: material
+  language: ja
+  font:
+    text: Kiwi Maru
+  palette:
+    - scheme: default
+      primary: teal
