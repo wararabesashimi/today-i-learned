@@ -1,4 +1,4 @@
-# today-i-learned
+# Today-I-Learned
 TIL方式の学習記録リポジトリ
 
 - 月刊学習：月間でその日学習したことを記録する
