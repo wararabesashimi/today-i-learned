@@ -4,7 +4,7 @@ site_url: https://wararabesashimi.github.io/today-i-learned/
 site_description: TIL方式で自己学習したことをまとめます
 
 nav:
-  - ホーム: index.html
+  - ホーム: README.md
   - 月刊学習: 
     - 2026年: 
       - 09月: 2026-09.md
